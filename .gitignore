@@ -1,0 +1,51 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+s[Tt]reamingAssets/
+[Bb]uilds/
+
+# ===================================== #
+# Visual Studio / MonoDevelop / Rider #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# =========== #
+# Unity3D generated #
+# =========== #
+*_i.c
+*_p.c
+*_q.c
+*_i.h
+*.opendb
+*.lock
+*.layout
+*.pidb.meta
+
+# ========================= #
+# Unity3D generated config #
+# ========================= #
+Library/
