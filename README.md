@@ -9,6 +9,9 @@ Welcome to the 2D Game Platformer project! This repository contains the source c
 - **Player Interaction:** Basic player controls with collision detection.
 - **Tile System:** Prefabs for different tiles that are used to create the game world.
 
+![UI](https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S1.png)
+![UI](https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S2.png)
+
 ## Getting Started
 
 To get started with the 2D Game Platformer project, follow these steps:
@@ -22,7 +25,6 @@ To get started with the 2D Game Platformer project, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-```bash
 git clone https://github.com/ReuAzel181/2D-Game-Platformer.git
 
 ## Setting Up the Project
@@ -37,6 +39,7 @@ git clone https://github.com/ReuAzel181/2D-Game-Platformer.git
   - Click the "Play" button in Unity to start the game and test the platformer mechanics.
 
 ## Game Components
+
 ### LevelGenerator.cs
 - This script handles the procedural generation of game levels by spawning tiles based on player position. Key functionalities include:
 
