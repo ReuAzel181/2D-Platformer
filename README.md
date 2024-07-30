@@ -35,7 +35,7 @@ git clone https://github.com/ReuAzel181/2D-Game-Platformer.git
 2. Open the Project:
   - Select the project from Unity Hub and click on "Open" to load it in Unity Editor.
 
-3.Play the Game:
+3. Play the Game:
   - Click the "Play" button in Unity to start the game and test the platformer mechanics.
 
 ## Game Components
