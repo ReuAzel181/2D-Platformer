@@ -65,6 +65,7 @@ git clone https://github.com/ReuAzel181/2D-Game-Platformer.git
     For any questions or feedback, please reach out to:
 
 **Author:** ReuAzel181
+
 **Email:** reyuasel@gmail.com 
 
 - Thank you for checking out the 2D Game Platformer project!
