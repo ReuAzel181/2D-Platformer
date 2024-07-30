@@ -54,17 +54,17 @@ git clone https://github.com/ReuAzel181/2D-Game-Platformer.git
   - The game uses prefabricated tiles to build levels. Each tile prefab contains:
       Visual Elements: Graphics and animations for the tile.
       EndP Marker: A marker to indicate the end of the tile for proper placement during level generation.
+    
+**Contributing**
+  - Feel free to contribute to the project by submitting issues or pull requests. We welcome any improvements or bug fixes!
 
-** Contributing **
-  Feel free to contribute to the project by submitting issues or pull requests. We welcome any improvements or bug fixes!
-
-** License **
-  This project is licensed under the MIT License. See the LICENSE file for more details.
+**License**
+  - This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contact
     For any questions or feedback, please reach out to:
 
-** Author: ** ReuAzel181
-** Email: ** your-email@example.com (replace with actual email if desired)
+**Author:** ReuAzel181
+**Email:** your-email@example.com (replace with actual email if desired)
 
 - Thank you for checking out the 2D Game Platformer project!
