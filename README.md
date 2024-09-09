@@ -1,4 +1,4 @@
-# EvergreenOdyssey a 2D Game Platformer
+# Evergreen Odyssey a 2D Game Platformer
 
 Welcome to the 2D Game Platformer project! This repository contains the source code and assets for a simple 2D platformer game developed in Unity. The game features a player character that can navigate through various levels, interact with different objects, and face challenges.
 
@@ -9,8 +9,10 @@ Welcome to the 2D Game Platformer project! This repository contains the source c
 - **Player Interaction:** Basic player controls with collision detection.
 - **Tile System:** Prefabs for different tiles that are used to create the game world.
 
-![UI](https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S1.png)
-![UI](https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S2.png)
+<div style="display: flex;">
+  <img src="https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S1.png" style="width: 400px;">
+  <img src="https://github.com/ReuAzel181/2D-Game-Platformer/blob/main/rm-images/S2.png" style="width: 400px;">
+</div>
 
 ## Getting Started
 
